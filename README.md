@@ -1,2 +1,2 @@
-# CHM624-IISERB/MD
+# CHM624-IISERB/
 This contains md &amp; mc code
